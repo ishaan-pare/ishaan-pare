@@ -38,8 +38,11 @@ Insightful student of B.E. in Computer Science and Engineering with experience i
 
 
 
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> <p align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&duration=1&center=false&width=440&height=45&color=BD3BF7FF&vCenter=false&pause=1000&size=22&lines=I+Believe" alt="Typing SVG" /></a></p> 
 
-
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=16F71B&repeat=false&width=1000&lines=%22You+never+know+how+Strong+you+are+until+being+Strong+is+the+only+choice+you+have.%22" alt="Typing SVG" /></a>
+</p>
 
 <!--
 **ishaan-pare/ishaan-pare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
