@@ -1,42 +1,31 @@
-# <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&center=true&pause=1000&vCenter=false&width=195&lines=Hello+there+%F0%9F%91%8B" alt="Typing SVG" /></a></p>
-
-<img align="right" height=300 src="https://github.com/AdityaKumar28/AdityaKumar28/raw/main/animation.gif">
-
-
-<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&duration=1&center=false&width=440&height=45&color=BD3BF7FF&vCenter=false&pause=1000&size=22&lines=I'm+Ishaan+Pare" alt="Typing SVG" /></a> 
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ishaan-pare.ishaan-pare)
+# <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> <p align="left"><img align="right" height=400 src="https://github.com/AdityaKumar28/AdityaKumar28/raw/main/animation.gif"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&duration=1&center=true&width=220&height=45&color=BD3BF7FF&vCenter=false&pause=1000&size=22&lines=I'm+Ishaan+Pare," alt="Typing SVG" /></a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&center=false&pause=1000&vCenter=false&width=330&lines=Hello+there+%F0%9F%91%8B;A+Full+Stack+Developer;A+Software+Engineer;And+a+Passionate+Coder" alt="Typing SVG" /></a> </p><a href="www.linkedin.com/in/ishaan-pare"><img width="32px" alt="Linkedin" title="LinkedIn" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/></a> <a href="https://discord.com/"><img width="32px" alt="Discord" title="Discord" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg"/></a> <a href="https://discord.com/"><img width="32px" alt="Youtube" title="Youtube" src="https://cdn-icons-png.flaticon.com/128/3991/3991722.png"/></a>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ishaan-pare.ishaan-pare) 
 
 
--   A Full Stack developer
--   Aspiring Data Scientist
--   Passionate Coder 
--   And Your Coder Friend 😊
 
-<br>
-<br>
-<br>
-
-<hr>
-
-<p align="center"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&&center=true&vCenter=false&pause=1000&color=BD3BF7&repeat=false&width=220&lines=Connect+me+through+" alt="Typing SVG" /></a>
-</p>
-  
- 
- 
-<p align="center">
-  <a href="www.linkedin.com/in/ishaan-pare"><img width="32px" alt="Linkedin" title="LinkedIn" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/"><img width="32px" alt="Discord" title="Discord" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/"><img width="32px" alt="Youtube" title="Youtube" src="https://cdn-icons-png.flaticon.com/128/3991/3991722.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  
+<p>
+Insightful student of B.E. in Computer Science and Engineering with experience in Data Science and Machine Learning, Full Stack Web Development. Eager to learn new skills and has developed many by my own, Looking for an opportunity to work with the great developers and enhance my skills.
 </p>
 
+<br>
+<br>
+<br>
 <hr>
 
-<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&duration=1&center=false&width=440&height=45&color=BD3BF7FF&vCenter=false&pause=1000&size=22&lines=My+Fav+Weapons" alt="Typing SVG" /></a> 
+# <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/><p align="left"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&&center=false&vCenter=false&pause=1000&color=BD3BF7&repeat=false&width=220&lines=My+Stats" alt="Typing SVG" /></a>
+</p>
+
+
+|🔥 Streak Stats | 💻 GitHub Profile Stats |
+| ------------- | ------------- |
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=ishaan-pare)](https://git.io/streak-stats) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishaan-pare&width=20)](https://github.com/anuraghazra/github-readme-stats)|
+
+
+</div>
+
+<hr>
+ 
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> <p align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&duration=1&center=false&width=440&height=45&color=BD3BF7FF&vCenter=false&pause=1000&size=22&lines=My+Fav+Weapons" alt="Typing SVG" /></a></p> 
 
 
 
